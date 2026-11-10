@@ -108,6 +108,7 @@ Yes. In Claude Code run the one-line `claude mcp add` command above; in the Clau
 - [Glama](https://glama.ai/mcp/servers/cotlet-connect/estimateone-mcp)
 - [LobeHub](https://lobehub.com/mcp/cotlet-connect-estimateone-mcp)
 - [Odel](https://odel.app/modules/cotlet/estimateone)
+- [mcpbeat](https://mcpbeat.com/mcp-servers/cotlet/estimateone/)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-estimateone-to-ai-agents-guide)
 
 ## Also works with
